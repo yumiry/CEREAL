@@ -11,3 +11,5 @@ be used in the selection of data; However, it is not required to know this infor
 CEREAL was created as part of the STARYY project (STARs that ‘R’ Young: When do stars form in clustered environments?). 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under 
 MSCA ITN-EID grant agreement No 676036.
+
+The CatalogueHAeBeInClusters.txt file containing the Herbig Ae/Be stars found in clusters by CEREAL.   
